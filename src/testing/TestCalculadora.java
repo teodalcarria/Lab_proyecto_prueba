@@ -13,6 +13,9 @@ public class TestCalculadora {
 		System.out.println(cdao.multiplicar(17, 8));
 		System.out.println(cdao.dividir(17, 8));
 		System.out.println(cdao.resto(17, 8));
+		System.out.println(cdao.resto(14, 8));
+		
+
 		
 		
 	}
