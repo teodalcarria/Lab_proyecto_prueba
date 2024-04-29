@@ -13,7 +13,8 @@ class TestCalculadoraJunit {
 
 	@Test
 	void sumar() {
-		assertEquals(cdao.sumar(8, 2), 10);
+		assertEquals(cdao.sumar(4, 6), 10);
+		assertEquals(cdao.sumar(34, 0), 34);
 		
 	}
 	
