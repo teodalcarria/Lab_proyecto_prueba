@@ -15,7 +15,7 @@ public class TestCalculadora {
 		System.out.println(cdao.resto(17, 8));
 		System.out.println(cdao.resto(14, 8));
 		
-
+		
 		
 		
 	}
